@@ -1,0 +1,42 @@
+/* 添加 CSS */
+.cbody{
+  border: 1px solid gray;
+  width: 300px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-top: 15px;
+  box-shadow: 5px 5px #006688;
+}
+
+.cdiv{
+  border: 1px solid gray;
+  width: 280px;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: #f8f8ff
+
+}
+
+.abstract{
+  font-style: italic;
+}
+
+.cimg{
+  width: 300px;
+}
+
+.label{
+  font-weight: bold;
+}
+
+.ulist{
+  padding-left: 0px;
+  margin-left: 0px;
+}
+
+.list{
+  list-style-type: none;
+  padding-left: 0px;
+  margin-left: 0px;
+}
